@@ -2,10 +2,14 @@
 
 std = "lua51"
 
-ignore = {}
+ignore = {
+	"212", -- unused argument
+}
 
 globals = {
 	"con_mobs"
 }
 
-read_globals = {}
+read_globals = {
+	"core"
+}
