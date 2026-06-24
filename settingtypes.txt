@@ -1,0 +1,3 @@
+
+# Comma-separated list in order of priority in case multiple APIs are installed.
+con_mobs.api_priority (API Priority) string mobs
